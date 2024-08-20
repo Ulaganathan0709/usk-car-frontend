@@ -24,6 +24,7 @@ import Failed from './components/payment/Failed';
 import Refund from './components/payment/Refund';
 import EditReview from './components/Review/EditReview';
 import NotFound from './components/NotFound';
+import ConfirmEmail from './components/auth/ConfirmEmail';
 const App = () => {
   return (
     <div>
@@ -48,6 +49,7 @@ const App = () => {
         <Route path="/success" element={<Success />} />
         <Route path="/Refund" element={<Refund />} />
         <Route path="/failed" element={<Failed />} />
+        <Route path="/confirm/:token" element={<ConfirmEmail />} />
 
         {/* Catch-all route for 404 */}
         <Route path="*" element={<NotFound />} />
