@@ -55,6 +55,14 @@ cd usk-rental-car-app
 - **View Bookings:** Users can view and cancel their bookings if needed.
 - **Reviews:** Users can leave reviews for the cars they have booked.
 
+## Admin Login
+ ```
+ Admin mailID: zoomcar996@gmail.com
+ Admin password:: Admin@1994
+
+ ```
+
+
 ## Deployment
 
 ### Netlify
