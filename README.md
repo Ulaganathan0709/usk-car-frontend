@@ -45,6 +45,8 @@ Usk Rental Car is a web application that allows users to browse, book, and revie
 git clone https://bitbucket.org/yourusername/usk-rental-car-app.git
 cd usk-rental-car-app
 
+```
+
 ## Usage
 
 - **Login/Register:** Users can sign up or log in to access their dashboard.
@@ -61,7 +63,6 @@ cd usk-rental-car-app
  Admin password:: Admin@1994
 
  ```
-
 
 ## Deployment
 
